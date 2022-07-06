@@ -81,21 +81,21 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "Tutorial",
+    text: "안녕하세요 세계",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
     color: "#E95800",
   },
   {
-    text: "How to Guides",
+    text: "안녕하세요 세계",
     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
     color: "#1099A8",
   },
   {
-    text: "Reference Guides",
+    text: "안녕하세요 세계",
     url: "https://www.gatsbyjs.com/docs/reference/",
     description:
       "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
@@ -131,7 +131,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Congratulations
+        안녕하세요 세계
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
         <span role="img" aria-label="Party popper emojis">
